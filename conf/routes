@@ -1,0 +1,4 @@
+# HelloWorld Controller
+GET     /helloworld     com.jcg.examples.playscala.controllers.HelloWorldController.helloworld
+GET     /index     com.jcg.examples.playscala.controllers.InitialController.initial
+GET     /     com.jcg.examples.playscala.controllers.InitialController.initial
